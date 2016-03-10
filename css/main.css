@@ -6,3 +6,16 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.btn {
+  display: inline-block;
+  padding: 0.4em;
+  border-radius: 8px;
+  border-width: 3px;
+  color: #fff;
+  border-color: #666;
+  background-color: #666;
+  border-style: solid;
+  font-size: 1rem;
+  font-style: none;
+}
